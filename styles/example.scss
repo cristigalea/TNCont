@@ -1,6 +1,10 @@
 $font-stack:    Helvetica, sans-serif;
 $primary-color: #333;
 
+#myDiv {
+  color: blue;
+}
+
 body {
   background: #000;
   font: 100% $font-stack;
